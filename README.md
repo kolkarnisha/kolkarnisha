@@ -545,7 +545,7 @@ Defining schemas first, validating at the boundary, and separating routes from l
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=50&section=header&text=Live%20GitHub%20Dashboard&fontSize=22&fontColor=00D4FF" width="100%" alt="Dashboard"/>
 
-<table>
+<table> 
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
