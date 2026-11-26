@@ -1,21 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Kolkar%20Nisha&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Backend%20Engineer%20%7C%20FastAPI%20%26%20Django%20%7C%20Generative%20AI%20Builder&descSize=19&descAlignY=58" width="100%" alt="Kolkar Nisha - Python Backend Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:203A43,70:2C5364,100:00D4FF&height=260&section=header&text=Kolkar%20Nisha&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Python%20Backend%20Engineer%20%7C%20FastAPI%20%26%20Django%20%7C%20Generative%20AI%20Builder&descSize=20&descAlignY=58" width="100%" alt="Kolkar Nisha - Python Backend Engineer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Python+%7C+Backend+%7C+AI+%F0%9F%9A%80;Designing+REST+APIs+with+FastAPI+%26+Django+%E2%9A%A1;Building+Data-Driven+Systems+on+SQL+%26+MySQL+%F0%9F%97%84%EF%B8%8F;Engineering+LLM+%26+RAG+Powered+Applications+%F0%9F%A4%96;Clean+Code.+Scalable+Systems.+Real-World+Impact.+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+Python+%7C+Backend+%7C+AI+%F0%9F%9A%80;Designing+REST+APIs+with+FastAPI+%26+Django+%E2%9A%A1;Building+Data-Driven+Systems+on+SQL+%26+MySQL+%F0%9F%97%84%EF%B8%8F;Engineering+LLM+%26+RAG+Powered+Applications+%F0%9F%A4%96;Clean+Code.+Scalable+Systems.+Real-World+Impact.+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-### *Turning real-world problems into reliable backend systems and intelligent AI applications.*
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,mysql,js,html,css,bootstrap,git,github,docker,postman&theme=dark&perline=12" alt="Tech stack icons" />
 
-<br/>
+<br/><br/>
 
-![Location](https://img.shields.io/badge/📍_Bangalore-India-0F2027?style=flat-square&labelColor=203A43)
-![Education](https://img.shields.io/badge/🎓_B.Com-Computer_Applications-2C5364?style=flat-square&labelColor=203A43)
-![Status](https://img.shields.io/badge/💼_Open_to_Work-Actively_Hiring_Conversations-00C853?style=flat-square&labelColor=203A43)
-![Focus](https://img.shields.io/badge/🎯_Focus-Python_•_Backend_•_GenAI-00D4FF?style=flat-square&labelColor=203A43)
+![Location](https://img.shields.io/badge/📍_Bangalore-India-0F2027?style=for-the-badge&labelColor=203A43)
+![Education](https://img.shields.io/badge/🎓_B.Com-Computer_Applications-2C5364?style=for-the-badge&labelColor=203A43)
+![Status](https://img.shields.io/badge/💼_Open_to_Work-Yes-00C853?style=for-the-badge&labelColor=203A43)
 
 <br/>
 
@@ -32,49 +31,68 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 👩‍💻 Introduction
+<br/>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<h2>👩‍💻 Hi, I'm Nisha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/></h2>
 
 I'm an engineer who solves real-world problems with **Python**, **backend development**, and **Generative AI**.
 
-I design and build **database-driven web applications** and **REST APIs** using **FastAPI**, **Django**, and **MySQL**. I focus on code that is readable, maintainable, and ready to scale. My foundation in **object-oriented programming**, **data structures & algorithms**, and **relational database design** means I think in systems, not just scripts.
+I design and build **database-driven web applications** and **REST APIs** using **FastAPI**, **Django**, and **MySQL**, with a focus on code that is readable, maintainable, and ready to scale. My foundation in **object-oriented programming**, **data structures & algorithms**, and **relational database design** means I think in systems, not just scripts.
 
-I'm currently **expanding my expertise in Generative AI**: **LLM integration**, **Retrieval-Augmented Generation (RAG)**, **LangChain**, **AI agents**, **vector databases**, and **prompt engineering**. The goal is to connect robust backend engineering with production-grade AI.
+I'm currently **expanding my expertise in Generative AI**: **LLM integration**, **RAG**, **LangChain**, **AI agents**, **vector databases**, and **prompt engineering**, to connect robust backend engineering with production-grade AI.
 
-> 💡 **My engineering identity:** a fast learner who ships working software, writes code others can maintain, and keeps raising the bar every single day.
+> 💡 **Engineering identity:** a fast learner who ships working software, writes code others can maintain, and raises the bar every day.
 
-<table align="center">
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<table>
   <tr>
-    <td align="center" width="25%"><h3>🐍</h3><b>Python</b><br/>Core Language</td>
-    <td align="center" width="25%"><h3>⚙️</h3><b>Backend</b><br/>FastAPI • Django</td>
-    <td align="center" width="25%"><h3>🗄️</h3><b>Databases</b><br/>SQL • MySQL</td>
-    <td align="center" width="25%"><h3>🤖</h3><b>GenAI</b><br/>LLMs • RAG • Agents</td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="60"/><br/><b>Python</b><br/><sub>Core Language</sub></td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=fastapi,django&theme=dark" width="110"/><br/><b>Backend</b><br/><sub>FastAPI • Django</sub></td>
+    <td align="center" width="25%"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/><br/><b>Databases</b><br/><sub>SQL • MySQL</sub></td>
+    <td align="center" width="25%"><img src="https://img.shields.io/badge/-GenAI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" height="40"/><br/><b>GenAI</b><br/><sub>LLMs • RAG • Agents</sub></td>
   </tr>
 </table>
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 # 🚀 Engineering Philosophy
 
 <table>
   <tr>
-    <td width="20%" align="center"><h3>🧼</h3><b>Clean Code</b></td>
+    <td width="18%" align="center"><img src="https://img.shields.io/badge/🧼-Clean_Code-00D4FF?style=for-the-badge" alt="Clean Code"/></td>
     <td>Code is read far more often than it is written. I favor clear naming, small focused functions, and consistent structure so any teammate can understand, review, and extend my work without friction.</td>
   </tr>
   <tr>
-    <td align="center"><h3>📐</h3><b>Scalability</b></td>
-    <td>I design with growth in mind: layered architecture, normalized schemas, validated inputs, and clear separation between routes, business logic, and data access.</td>
+    <td align="center"><img src="https://img.shields.io/badge/📐-Scalability-00C853?style=for-the-badge" alt="Scalability"/></td>
+    <td>I design with growth in mind: layered architecture, normalized schemas, validated inputs, and a clear separation between routes, business logic, and data access.</td>
   </tr>
   <tr>
-    <td align="center"><h3>📚</h3><b>Continuous Learning</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/📚-Continuous_Learning-FF6F00?style=for-the-badge" alt="Continuous Learning"/></td>
     <td>Technology moves fast. I treat learning as part of the job, turning each new concept into a working project instead of leaving it as theory.</td>
   </tr>
   <tr>
-    <td align="center"><h3>🧩</h3><b>Problem Solving</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/🧩-Problem_Solving-6A1B9A?style=for-the-badge" alt="Problem Solving"/></td>
     <td>I break problems into small, testable pieces, reason from first principles, and debug systematically instead of guessing.</td>
   </tr>
   <tr>
-    <td align="center"><h3>🤖</h3><b>AI Innovation</b></td>
-    <td>I see AI as a powerful layer on top of strong backend engineering. Reliable APIs, clean data, and thoughtful prompts are what make AI features useful in production.</td>
+    <td align="center"><img src="https://img.shields.io/badge/🤖-AI_Innovation-EA4335?style=for-the-badge" alt="AI Innovation"/></td>
+    <td>AI is a powerful layer on top of strong backend engineering. Reliable APIs, clean data, and thoughtful prompts are what make AI features useful in production.</td>
   </tr>
 </table>
 
@@ -155,129 +173,87 @@ if __name__ == "__main__":
 
 # ⚡ Core Competencies
 
+<div align="center">
+
 | 🔧 Competency | 📌 What I Deliver |
 |:---|:---|
-| **Python Development** | Object-oriented, readable, well-structured Python with strong fundamentals |
-| **Backend Engineering** | CRUD systems, authentication & authorization, business logic with Django and FastAPI |
-| **API Engineering** | RESTful endpoints, Pydantic validation, Swagger/OpenAPI docs, Postman testing |
-| **Database Design** | Normalized relational schemas, SQL queries, MySQL-backed applications |
-| **Full Stack Delivery** | Responsive interfaces with HTML5, CSS3, Bootstrap, and JavaScript connected to Python backends |
-| **Generative AI** | Prompt engineering, LLM API integration, RAG concepts, AI workflow design |
-| **Problem Solving** | Data structures & algorithms, systematic debugging, logical decomposition |
-| **Engineering Workflow** | Git/GitHub, SDLC, Agile collaboration |
+| 🐍 **Python Development** | Object-oriented, readable, well-structured Python with strong fundamentals |
+| ⚙️ **Backend Engineering** | CRUD systems, authentication & authorization, business logic with Django and FastAPI |
+| 🔌 **API Engineering** | RESTful endpoints, Pydantic validation, Swagger/OpenAPI docs, Postman testing |
+| 🗄️ **Database Design** | Normalized relational schemas, SQL queries, MySQL-backed applications |
+| 🎨 **Full Stack Delivery** | Responsive interfaces with HTML5, CSS3, Bootstrap, and JavaScript connected to Python backends |
+| 🤖 **Generative AI** | Prompt engineering, LLM API integration, RAG concepts, AI workflow design |
+| 🧩 **Problem Solving** | Data structures & algorithms, systematic debugging, logical decomposition |
+| 🔀 **Engineering Workflow** | Git/GitHub, SDLC, Agile collaboration |
+
+</div>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### ⚙️ Backend Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-</p>
+<div align="center">
 
-### 🔌 API Development
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Auth-Authentication_%26_Authorization-5C2D91?style=for-the-badge" alt="Auth"/>
-</p>
+### ⚙️ Backend Engineering & API Development
+<img src="https://skillicons.dev/icons?i=py,fastapi,django&theme=dark" alt="Backend"/>
+<br/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI"/>
+<img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
+<img src="https://img.shields.io/badge/Auth-Authentication_%26_Authorization-5C2D91?style=for-the-badge" alt="Auth"/>
 
 ### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="Frontend"/>
 
 ### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-Expanding-00796B?style=for-the-badge" alt="Vector Databases"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Vector_Databases-Expanding-00796B?style=for-the-badge" alt="Vector Databases"/>
 
-### 🤖 Generative AI
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/LLMs-6A1B9A?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-00796B?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-</p>
+### 🤖 Generative AI · 🧠 AI Engineering · ✍️ Prompt Engineering
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LLMs-6A1B9A?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-00796B?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/AI_Agents-Expanding-FF6F00?style=for-the-badge" alt="AI Agents"/>
+<br/>
+<img src="https://img.shields.io/badge/LLM_Integration-0A66C2?style=for-the-badge" alt="LLM Integration"/>
+<img src="https://img.shields.io/badge/Embeddings_%26_Semantic_Search-009688?style=for-the-badge" alt="Embeddings"/>
+<img src="https://img.shields.io/badge/Prompt_Design-FF6F00?style=for-the-badge" alt="Prompt Design"/>
+<img src="https://img.shields.io/badge/Structured_Outputs-C2185B?style=for-the-badge" alt="Structured Outputs"/>
+<img src="https://img.shields.io/badge/Prompt_Evaluation-455A64?style=for-the-badge" alt="Prompt Evaluation"/>
 
-### 🧠 AI Engineering
-<p>
-  <img src="https://img.shields.io/badge/AI_Agents-Expanding-FF6F00?style=for-the-badge" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/LLM_Integration-0A66C2?style=for-the-badge" alt="LLM Integration"/>
-  <img src="https://img.shields.io/badge/Embeddings_%26_Semantic_Search-009688?style=for-the-badge" alt="Embeddings"/>
-</p>
-
-### ✍️ Prompt Engineering
-<p>
-  <img src="https://img.shields.io/badge/Prompt_Design-FF6F00?style=for-the-badge" alt="Prompt Design"/>
-  <img src="https://img.shields.io/badge/Structured_Outputs-C2185B?style=for-the-badge" alt="Structured Outputs"/>
-  <img src="https://img.shields.io/badge/Prompt_Evaluation-455A64?style=for-the-badge" alt="Prompt Evaluation"/>
-</p>
-
-### 🧰 Development Tools
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI"/>
-</p>
-
-### ☁️ Cloud & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Docker-Expanding-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Containerized_Deployment-Expanding-0DB7ED?style=for-the-badge" alt="Containerized Deployment"/>
-</p>
-
-### 🔀 Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+### 🧰 Development Tools · 🔀 Version Control · ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git,github,docker&theme=dark" alt="Tools"/>
 
 ### 🏛️ Software Architecture
-<p>
-  <img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge" alt="OOP"/>
-  <img src="https://img.shields.io/badge/Layered_Architecture-203A43?style=for-the-badge" alt="Layered Architecture"/>
-  <img src="https://img.shields.io/badge/MVC_%2F_MVT-092E20?style=for-the-badge" alt="MVC MVT"/>
-  <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge" alt="Database Design"/>
-  <img src="https://img.shields.io/badge/SDLC_%26_Agile-009688?style=for-the-badge" alt="SDLC and Agile"/>
-</p>
+<img src="https://img.shields.io/badge/OOP-3776AB?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/Layered_Architecture-203A43?style=for-the-badge" alt="Layered Architecture"/>
+<img src="https://img.shields.io/badge/MVC_%2F_MVT-092E20?style=for-the-badge" alt="MVC MVT"/>
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge" alt="Database Design"/>
+<img src="https://img.shields.io/badge/SDLC_%26_Agile-009688?style=for-the-badge" alt="SDLC and Agile"/>
+
+</div>
 
 ---
 
 # 🏗️ Architecture & Development Principles
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                       CLIENT LAYER                         │
-│        HTML5 • CSS3 • Bootstrap • JavaScript • Postman     │
-└──────────────────────────────┬─────────────────────────────┘
-                               │  HTTP / JSON
-┌──────────────────────────────▼─────────────────────────────┐
-│                         API LAYER                          │
-│     FastAPI / Django • Routing • Pydantic Validation       │
-│              Authentication & Authorization                │
-└──────────────────────────────┬─────────────────────────────┘
-                               │
-┌──────────────────────────────▼─────────────────────────────┐
-│                      BUSINESS LOGIC                        │
-│        Services • Rules • Workflows • AI Integrations      │
-└──────────────────────────────┬─────────────────────────────┘
-                               │
-┌──────────────────────────────▼─────────────────────────────┐
-│                       DATA LAYER                           │
-│      MySQL • Normalized Schemas • Queries • ORM Models     │
-└────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    A["🎨 Client Layer<br/>HTML5 · CSS3 · Bootstrap · JavaScript · Postman"] -->|HTTP / JSON| B["🔌 API Layer<br/>FastAPI / Django · Routing · Pydantic Validation · Auth"]
+    B --> C["🧠 Business Logic<br/>Services · Rules · Workflows · AI Integrations"]
+    C --> D["🗄️ Data Layer<br/>MySQL · Normalized Schemas · ORM Models"]
+    C -.->|LLM calls| E["🤖 AI Services<br/>OpenAI · Claude · RAG"]
+
+    style A fill:#0F2027,stroke:#00D4FF,color:#ffffff
+    style B fill:#203A43,stroke:#00D4FF,color:#ffffff
+    style C fill:#2C5364,stroke:#00D4FF,color:#ffffff
+    style D fill:#0F2027,stroke:#00C853,color:#ffffff
+    style E fill:#2C5364,stroke:#FF6F00,color:#ffffff
 ```
 
 | Principle | How I Apply It |
@@ -295,77 +271,83 @@ if __name__ == "__main__":
 
 I'm building a practical bridge between **solid backend engineering** and **modern LLM systems**.
 
+<div align="center">
+
 | 🧠 Area | 🎯 Focus |
 |:---|:---|
-| **Prompt Engineering** | Structured, reliable prompts and output formats for OpenAI and Claude models |
-| **LLM Integration** | Connecting language models to applications through APIs |
-| **FastAPI for AI** | Serving AI features through fast, validated, documented endpoints |
-| **RAG Systems** | Grounding LLM answers in custom data using retrieval pipelines |
-| **Vector Databases** | Embeddings and semantic search to power retrieval |
-| **LangChain** | Orchestrating chains, tools, and multi-step LLM workflows |
-| **AI Agents** | Designing tool-using agents for multi-step tasks |
-| **Docker** | Packaging AI-powered backends for consistent deployment |
+| ✍️ **Prompt Engineering** | Structured, reliable prompts and output formats for OpenAI and Claude models |
+| 🔗 **LLM Integration** | Connecting language models to applications through APIs |
+| ⚡ **FastAPI for AI** | Serving AI features through fast, validated, documented endpoints |
+| 📚 **RAG Systems** | Grounding LLM answers in custom data using retrieval pipelines |
+| 🗃️ **Vector Databases** | Embeddings and semantic search to power retrieval |
+| ⛓️ **LangChain** | Orchestrating chains, tools, and multi-step LLM workflows |
+| 🤖 **AI Agents** | Designing tool-using agents for multi-step tasks |
+| 🐳 **Docker** | Packaging AI-powered backends for consistent deployment |
 
----
+</div>
 
 ## 🗺️ AI Engineer Roadmap
 
-```text
- 🐍 Python
-   │
-   ▼
- ⚙️ Backend Engineering ────────── Django • FastAPI
-   │
-   ▼
- 🔌 API Development ────────────── REST • Pydantic • OpenAPI
-   │
-   ▼
- 🧩 AI Integrations ────────────── OpenAI • Claude APIs
-   │
-   ▼
- 🧠 LLMs ───────────────────────── Prompting • Structured Outputs
-   │
-   ▼
- 📚 RAG Systems ────────────────── Retrieval • Context Grounding
-   │
-   ▼
- 🗃️ Vector Databases ───────────── Embeddings • Semantic Search
-   │
-   ▼
- 🤖 Agents ─────────────────────── LangChain • Tool Use
-   │
-   ▼
- 🚀 Production AI Systems ──────── Docker • Deployment • Reliability
+```mermaid
+flowchart LR
+    A["🐍 Python"] --> B["⚙️ Backend<br/>Engineering"]
+    B --> C["🔌 API<br/>Development"]
+    C --> D["🧩 AI<br/>Integrations"]
+    D --> E["🧠 LLMs"]
+    E --> F["📚 RAG<br/>Systems"]
+    F --> G["🗃️ Vector<br/>Databases"]
+    G --> H["🤖 Agents"]
+    H --> I["🚀 Production<br/>AI Systems"]
+
+    style A fill:#3776AB,stroke:#ffffff,color:#ffffff
+    style B fill:#092E20,stroke:#ffffff,color:#ffffff
+    style C fill:#009688,stroke:#ffffff,color:#ffffff
+    style D fill:#0A66C2,stroke:#ffffff,color:#ffffff
+    style E fill:#6A1B9A,stroke:#ffffff,color:#ffffff
+    style F fill:#00796B,stroke:#ffffff,color:#ffffff
+    style G fill:#C2185B,stroke:#ffffff,color:#ffffff
+    style H fill:#FF6F00,stroke:#ffffff,color:#ffffff
+    style I fill:#00C853,stroke:#ffffff,color:#ffffff
 ```
 
 ---
 
 # 📈 Growth Roadmap
 
-| Phase | Milestone | Status |
-|:---:|:---|:---:|
-| **1** | Python fundamentals, OOP, data structures & algorithms | ✅ Established |
-| **2** | SQL & MySQL database design | ✅ Established |
-| **3** | Full stack web development with Django, HTML, CSS, Bootstrap, JavaScript | ✅ Established |
-| **4** | REST API development with FastAPI | ✅ Established |
-| **5** | Prompt engineering & LLM API integration | 🟢 Active |
-| **6** | RAG pipelines, vector databases, LangChain | 🟡 Next |
-| **7** | AI agents & Docker-based deployment | 🔵 Planned |
-| **8** | Production-grade AI backends | 🎯 Target |
+<div align="center">
 
-🟢 *In progress* &nbsp;•&nbsp; 🟡 *Up next* &nbsp;•&nbsp; 🔵 *Planned*
+| Phase | Milestone | Progress | Status |
+|:---:|:---|:---:|:---:|
+| **1** | Python fundamentals, OOP, data structures & algorithms | `▰▰▰▰▰▰▰▰▰▰` | ✅ Established |
+| **2** | SQL & MySQL database design | `▰▰▰▰▰▰▰▰▰▱` | ✅ Established |
+| **3** | Full stack web development with Django, HTML, CSS, Bootstrap, JavaScript | `▰▰▰▰▰▰▰▰▱▱` | ✅ Established |
+| **4** | REST API development with FastAPI | `▰▰▰▰▰▰▰▰▱▱` | ✅ Established |
+| **5** | Prompt engineering & LLM API integration | `▰▰▰▰▰▱▱▱▱▱` | 🟢 Active |
+| **6** | RAG pipelines, vector databases, LangChain | `▰▰▱▱▱▱▱▱▱▱` | 🟡 Next |
+| **7** | AI agents & Docker-based deployment | `▰▱▱▱▱▱▱▱▱▱` | 🔵 Planned |
+| **8** | Production-grade AI backends | `▱▱▱▱▱▱▱▱▱▱` | 🎯 Target |
+
+</div>
 
 ---
 
 # 🧠 Problem Solving Mindset
 
-```text
- 1. UNDERSTAND   →  Define the real problem and who it affects
- 2. DECOMPOSE    →  Split it into small, testable components
- 3. DESIGN       →  Choose the data model and API contract first
- 4. IMPLEMENT    →  Write clean, incremental, committed code
- 5. VALIDATE     →  Test endpoints, edge cases, and failure paths
- 6. REFINE       →  Refactor, document, and improve performance
+```mermaid
+flowchart LR
+    A["1️⃣ Understand<br/>the real problem"] --> B["2️⃣ Decompose<br/>into small parts"]
+    B --> C["3️⃣ Design<br/>data model & API"]
+    C --> D["4️⃣ Implement<br/>clean increments"]
+    D --> E["5️⃣ Validate<br/>edge cases & failures"]
+    E --> F["6️⃣ Refine<br/>refactor & document"]
+    F -.-> A
+
+    style A fill:#0F2027,stroke:#00D4FF,color:#ffffff
+    style B fill:#203A43,stroke:#00D4FF,color:#ffffff
+    style C fill:#2C5364,stroke:#00D4FF,color:#ffffff
+    style D fill:#203A43,stroke:#00C853,color:#ffffff
+    style E fill:#2C5364,stroke:#FF6F00,color:#ffffff
+    style F fill:#0F2027,stroke:#00C853,color:#ffffff
 ```
 
 > *"Every bug is a puzzle, every feature is a design decision, and every project is a chance to engineer better."*
@@ -374,11 +356,36 @@ I'm building a practical bridge between **solid backend engineering** and **mode
 
 # 🌟 What Makes Me Different
 
-- 🔀 **Business + Tech perspective:** My B.Com background gives me a natural understanding of business workflows, records, and data, which helps me build software that fits how organizations actually operate.
-- 🧱 **Backend depth with AI direction:** I pair solid API and database engineering with hands-on movement into LLMs, RAG, and agents.
-- ⚡ **Learn-build-ship loop:** I turn new concepts into working projects quickly instead of stopping at tutorials.
-- 📖 **Documentation-first habits:** Clear API docs and readable code make my work easy for teams to adopt.
-- 🤝 **Collaborative engineer:** I communicate clearly, accept feedback well, and work comfortably in Agile, Git-based teams.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔀 Business + Tech Perspective
+My B.Com background gives me a natural understanding of business workflows, records, and data, which helps me build software that fits how organizations actually operate.
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🧱 Backend Depth, AI Direction
+I pair solid API and database engineering with hands-on movement into LLMs, RAG, and agents.
+
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+### ⚡ Learn-Build-Ship Loop
+I turn new concepts into working projects quickly instead of stopping at tutorials.
+
+    </td>
+    <td valign="top">
+
+### 📖 Documentation-First Habits
+Clear API docs and readable code make my work easy for teams to adopt, review, and extend.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -402,6 +409,14 @@ I'm building a practical bridge between **solid backend engineering** and **mode
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:092E20,100:2C5364&height=70&section=header&text=Django%20Management%20System&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" alt="Django Management System"/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,django,mysql,html,css,bootstrap,git&theme=dark" alt="Project stack"/>
+</div>
+
+<br/>
+
 **📖 Overview**
 A full stack, database-driven management application built with **Django** and **MySQL** that lets users create, view, update, and delete structured records through a clean, responsive web interface.
 
@@ -414,13 +429,14 @@ Manual record-keeping with spreadsheets and paper is slow, error-prone, and hard
 - ✅ Normalized relational schema in MySQL for reliable storage
 - ✅ Responsive front end built with HTML5, CSS3, and Bootstrap
 
-**🧰 Tech Stack**
-`Python` `Django` `MySQL` `HTML5` `CSS3` `Bootstrap` `Git`
-
 **🏗️ Architecture**
-```text
-Browser (HTML/CSS/Bootstrap) → Django Views & Templates → Django ORM → MySQL
-                                   └── Auth & Permissions Layer
+
+```mermaid
+flowchart LR
+    A["🌐 Browser<br/>HTML · CSS · Bootstrap"] --> B["🧭 Django<br/>Views & Templates"]
+    B --> C["🔐 Auth &<br/>Permissions"]
+    B --> D["🧱 Django ORM"]
+    D --> E[("🗄️ MySQL")]
 ```
 
 **📈 Impact**
@@ -438,6 +454,14 @@ Planning the relational schema before writing views, enforcing permissions consi
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:009688,100:0F2027&height=70&section=header&text=FastAPI%20REST%20Service&fontSize=26&fontColor=ffffff&animation=fadeIn" width="100%" alt="FastAPI REST Service"/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,fastapi,mysql,postman,git&theme=dark" alt="Project stack"/>
+</div>
+
+<br/>
+
 **📖 Overview**
 A RESTful backend service built with **FastAPI** that exposes well-structured endpoints for data operations, with automatically generated interactive documentation.
 
@@ -450,13 +474,15 @@ Front-end applications and other services need a fast, validated, well-documente
 - ✅ Interactive API documentation through Swagger UI
 - ✅ Endpoint testing with Postman and a codebase structured for maintainability
 
-**🧰 Tech Stack**
-`Python` `FastAPI` `Pydantic` `SQL / MySQL` `Swagger UI` `Postman` `Git`
-
 **🏗️ Architecture**
-```text
-Client → FastAPI Router → Pydantic Schemas → Service Logic → SQL Database
-                              └── OpenAPI / Swagger Docs (auto-generated)
+
+```mermaid
+flowchart LR
+    A["📮 Client<br/>Postman / Frontend"] --> B["🚦 FastAPI<br/>Router"]
+    B --> C["📐 Pydantic<br/>Schemas"]
+    C --> D["🧠 Service<br/>Logic"]
+    D --> E[("🗄️ SQL Database")]
+    B -.-> F["📖 Swagger / OpenAPI<br/>auto-generated docs"]
 ```
 
 **📈 Impact**
@@ -500,6 +526,8 @@ Defining schemas first, validating at the boundary, and separating routes from l
 
 # 🚀 Open Source Journey
 
+<div align="center">
+
 | Stage | Focus |
 |:---:|:---|
 | 🌱 **Build** | Publishing well-documented projects with clear READMEs and clean commit history |
@@ -507,11 +535,15 @@ Defining schemas first, validating at the boundary, and separating routes from l
 | 🤝 **Collaborate** | Practicing pull requests, code reviews, and issue discussions in open source workflows |
 | 🌍 **Impact** | Growing toward meaningful contributions to Python and AI tooling communities |
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=50&section=header&text=Live%20GitHub%20Dashboard&fontSize=22&fontColor=00D4FF" width="100%" alt="Dashboard"/>
 
 <table>
   <tr>
@@ -579,6 +611,8 @@ Defining schemas first, validating at the boundary, and separating routes from l
 
 # 💼 Why Companies Hire Me
 
+<div align="center">
+
 | ✅ Strength | 💬 What It Means for Your Team |
 |:---|:---|
 | ⚡ **Fast Learner** | I pick up new frameworks quickly and apply them in real projects, shortening onboarding time |
@@ -589,6 +623,8 @@ Defining schemas first, validating at the boundary, and separating routes from l
 | 🧩 **Problem Solving** | Structured debugging, algorithmic thinking, and calm ownership of hard problems |
 | 🤝 **Team Collaboration** | Git workflows, Agile habits, clear communication, and openness to code review |
 | 📊 **Business Understanding** | A commerce background that helps me connect technical decisions to business outcomes |
+
+</div>
 
 ---
 
@@ -626,7 +662,7 @@ while True:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀%20OPEN%20TO%20WORK-Python%20%7C%20Backend%20%7C%20FastAPI%20%7C%20AI-00C853?style=for-the-badge" alt="Open to work"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C853,100:00D4FF&height=110&section=header&text=Open%20to%20Work&fontSize=40&fontColor=ffffff&animation=blink" width="100%" alt="Open to work"/>
 
 ### Looking for a motivated engineer to strengthen your backend or AI team?
 
@@ -656,6 +692,6 @@ while True:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let%27s+build+something+great+together.+%F0%9F%9A%80" alt="Footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,40:2C5364,70:203A43,100:0F2027&height=140&section=footer" width="100%" alt="Footer"/>
 
 </div>
