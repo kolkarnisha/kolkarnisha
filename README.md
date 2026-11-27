@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
- 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Kolkar%20Nisha&fontSize=72&fontColor=00F5FF&fontAlignY=38&animation=fadeIn&desc=Python%20Full%20Stack%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Django%20%E2%80%A2%20Generative%20AI&descSize=20&descColor=C4B5FD&descAlignY=62&stroke=7C3AED&strokeWidth=1" alt="Kolkar Nisha - Python Full Stack and AI Engineer"/>
 
 <a href="https://github.com/kolkarnisha">
@@ -343,17 +343,29 @@ flowchart TB
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ OPEN SOURCE ZONE ═══════════════════════ -->
-## 🌍 Open Source Contributions Zone
+## 🌍 Open Source Command Center
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/959-Contributions-00F5FF?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/218-Commits-7C3AED?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/17-Pull_Requests-A78BFA?style=for-the-badge&labelColor=0f0c29"/>
-<img src="https://img.shields.io/badge/4-Repositories_Created-22D3EE?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/959-CONTRIBUTIONS-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29&logoSize=auto"/>
+<img src="https://img.shields.io/badge/218-COMMITS_IN_NOV-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/17-PULL_REQUESTS-A78BFA?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/18-ACTIVE_REPOSITORIES-22D3EE?style=for-the-badge&logo=gitbook&logoColor=white&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/4-REPOS_CREATED-34D399?style=for-the-badge&logo=addthis&logoColor=white&labelColor=0f0c29"/>
 
-### 🔥 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kolkarnisha&bg_color=0d1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Kolkar%20Nisha%20%E2%80%A2%20Contribution%20Graph" width="100%"/>
+<br/><br/>
+
+### 🧊 3D Contribution Skyline
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
+
+### 🔥 Streak Command Deck
+<img src="https://streak-stats.demolab.com?user=kolkarnisha&mode=daily&theme=dark&background=0d1117&border=7C3AED&stroke=7C3AED&ring=00F5FF&fire=FF6B6B&currStreakNum=00F5FF&currStreakLabel=00F5FF&sideNums=FFFFFF&sideLabels=C4B5FD&dates=94A3B8&card_width=495" height="175" alt="Daily streak"/>
+<img src="https://streak-stats.demolab.com?user=kolkarnisha&mode=weekly&theme=dark&background=0d1117&border=7C3AED&stroke=7C3AED&ring=A78BFA&fire=FBBF24&currStreakNum=A78BFA&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=C4B5FD&dates=94A3B8&card_width=495" height="175" alt="Weekly streak"/>
+
+<sub>📆 Left: consecutive days with a contribution &nbsp;•&nbsp; Right: consecutive weeks with a contribution</sub>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kolkarnisha&bg_color=0d1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Kolkar%20Nisha%20%E2%80%A2%20Contribution%20Activity" width="100%"/>
 
 ### 🟩 Contribution Heatmap
 <img src="https://ghchart.rshah.org/00F5FF/kolkarnisha" width="95%" alt="Contribution heatmap"/>
@@ -361,11 +373,8 @@ flowchart TB
 ### 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/kolkarnisha/kolkarnisha/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
 
-### ⚡ Contribution Streak
-<img src="https://streak-stats.demolab.com?user=kolkarnisha&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" />
-
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=kolkarnisha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=kolkarnisha&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -385,28 +394,24 @@ flowchart TB
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=kolkarnisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=7C3AED&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolkarnisha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&langs_count=8" />
+### 🧬 Full Metrics Report
+<img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
 
-<br/>
+### 📊 Stats & Languages
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=kolkarnisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=7C3AED&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Kolkar%20Nisha%27s%20GitHub%20Stats" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolkarnisha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=kolkarnisha&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=7C3AED" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolkarnisha&theme=tokyonight" height="170"/>
+### 🗂️ Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolkarnisha&theme=tokyonight" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolkarnisha&theme=tokyonight" height="175"/>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolkarnisha&theme=tokyonight" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolkarnisha&theme=tokyonight" height="175"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolkarnisha&theme=tokyonight" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolkarnisha&theme=tokyonight" height="170"/>
+### ⏰ Productive Time
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolkarnisha&theme=tokyonight&utcOffset=5.5" height="190"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolkarnisha&theme=tokyonight" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolkarnisha&theme=tokyonight&utcOffset=5.5" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kolkarnisha&bg_color=0d1117&color=00F5FF&line=7C3AED&point=FFFFFF&hide_border=true&area=true" width="100%"/>
-
+### 🐍 Snake Is Hungry
 <img src="https://raw.githubusercontent.com/kolkarnisha/kolkarnisha/output/github-snake-dark.svg" width="100%"/>
 
 </div>
