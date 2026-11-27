@@ -26,7 +26,19 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ═══════════════════════ AT A GLANCE ═══════════════════════ -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="210"><h1>🔥 959</h1><b>CONTRIBUTIONS</b><br/><sub>last 12 months</sub></td>
+<td align="center" width="210"><h1>⚡ 218</h1><b>COMMITS</b><br/><sub>November 2026</sub></td>
+<td align="center" width="210"><h1>🔀 17</h1><b>PULL REQUESTS</b><br/><sub>14 merged</sub></td>
+<td align="center" width="210"><h1>📦 18</h1><b>ACTIVE REPOS</b><br/><sub>this month</sub></td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ DEVELOPER SHOWCASE ═══════════════════════ -->
 ## 🧑‍💻 Developer Showcase
@@ -64,7 +76,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 🌌 About Me
@@ -110,7 +122,7 @@ Clean structure first, cleverness never. Ship small, iterate fast, learn in publ
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 ## ⚡ Tech Stack
@@ -149,7 +161,7 @@ Clean structure first, cleverness never. Ship small, iterate fast, learn in publ
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ ENGINEERING DASHBOARD ═══════════════════════ -->
 ## 📊 Engineering Dashboard
@@ -179,7 +191,7 @@ Clean structure first, cleverness never. Ship small, iterate fast, learn in publ
 | **Backend Projects** | `3+` | JOBNEX, PG SNAP, FarSay BondBridge |
 | **Learning Progress** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ | Python ▸ SQL ▸ Backend ▸ **GenAI (in progress)** |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 ## 🚀 Featured Projects
@@ -267,7 +279,7 @@ Clean structure first, cleverness never. Ship small, iterate fast, learn in publ
 | **Architecture** | Problem → schema → query → explanation. |
 | **Repository** | [**github.com/kolkarnisha/sql_daily_practice**](https://github.com/kolkarnisha/sql_daily_practice) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ AI ROADMAP ═══════════════════════ -->
 ## 🧭 AI Engineering Roadmap
@@ -340,10 +352,14 @@ flowchart TB
     BE -.-> OPS
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ OPEN SOURCE ZONE ═══════════════════════ -->
 ## 🌍 Open Source Command Center
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=959+contributions+and+counting;218+commits+in+November;17+pull+requests+across+4+repositories" alt="Contribution ticker"/>
+</div>
 
 <div align="center">
 
@@ -354,6 +370,16 @@ flowchart TB
 <img src="https://img.shields.io/badge/4-REPOS_CREATED-34D399?style=for-the-badge&logo=addthis&logoColor=white&labelColor=0f0c29"/>
 
 <br/><br/>
+
+### 🎯 Road to 999 Contributions
+
+<img src="https://img.shields.io/badge/CURRENT-959-00F5FF?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/GOAL-999-DB2777?style=for-the-badge&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/REMAINING-40-FBBF24?style=for-the-badge&labelColor=0f0c29"/>
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ **96%**
+
+<sub>🚀 At my current pace, the next milestone is just around the corner.</sub>
 
 ### 🗓️ Contribution Calendar
 <img src="https://ghchart.rshah.org/00F5FF/kolkarnisha" width="95%" alt="Contribution calendar"/>
@@ -384,10 +410,14 @@ flowchart TB
 | 🔀 Pull requests opened | **17** | `NZJITSolutions-KOLKARNISHA` • `NZJITSOLUTIONS_daily_growth` • `python_dsa_class` • `GEN_AI_MASTER` |
 | 🟣 PRs merged | **14** | 8 + 3 + 2 + 1 |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ LIVE GITHUB DASHBOARD ═══════════════════════ -->
 ## 📡 Live GitHub Dashboard
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=700&lines=Live+stats+straight+from+GitHub;Streaks+%E2%80%A2+Languages+%E2%80%A2+Productivity" alt="Dashboard ticker"/>
+</div>
 
 <div align="center">
 
@@ -407,7 +437,7 @@ flowchart TB
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ AI EXPERTISE ═══════════════════════ -->
 ## 🧠 AI Expertise Showcase
@@ -455,7 +485,7 @@ flowchart LR
 | **Model Evaluation** | Checking quality before shipping |
 | **AI Automation** | Replacing repetitive manual work with LLM-powered pipelines |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ WHY HIRE ME ═══════════════════════ -->
 ## 💎 Why Hire Me
@@ -524,7 +554,7 @@ flowchart LR
     classDef goal fill:#DB2777,stroke:#F9A8D4,color:#fff,stroke-width:3px
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ PRINCIPLES & MINDSET ═══════════════════════ -->
 ## 🧱 Engineering Principles & Developer Mindset
@@ -594,7 +624,7 @@ flowchart LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7C3AED,100:DB2777&height=4&section=header&animation=twinkling" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════ RECRUITER CTA ═══════════════════════ -->
 ## 📬 Let's Build Something Great
@@ -621,6 +651,8 @@ flowchart LR
 <div align="center">
 
 <br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random dev quote"/>
 
 ### *"Learn daily. Build daily. Ship daily."*
 
