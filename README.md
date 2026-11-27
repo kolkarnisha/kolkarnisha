@@ -355,8 +355,8 @@ flowchart TB
 
 <br/><br/>
 
-### 🧊 3D Contribution Skyline
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
+### 🗓️ Contribution Calendar
+<img src="https://ghchart.rshah.org/00F5FF/kolkarnisha" width="95%" alt="Contribution calendar"/>
 
 ### 🔥 Streak Command Deck
 <img src="https://streak-stats.demolab.com?user=kolkarnisha&mode=daily&theme=dark&background=0d1117&border=7C3AED&stroke=7C3AED&ring=00F5FF&fire=FF6B6B&currStreakNum=00F5FF&currStreakLabel=00F5FF&sideNums=FFFFFF&sideLabels=C4B5FD&dates=94A3B8&card_width=495" height="175" alt="Daily streak"/>
@@ -367,11 +367,8 @@ flowchart TB
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolkarnisha&bg_color=0d1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Kolkar%20Nisha%20%E2%80%A2%20Contribution%20Activity" width="100%"/>
 
-### 🟩 Contribution Heatmap
-<img src="https://ghchart.rshah.org/00F5FF/kolkarnisha" width="95%" alt="Contribution heatmap"/>
-
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/kolkarnisha/kolkarnisha/output/github-snake-dark.svg" width="100%" alt="Contribution snake"/>
+### 🌈 Activity Graph (Alternate Theme)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kolkarnisha&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Daily%20Contribution%20Pulse" width="100%"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=kolkarnisha&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" />
@@ -394,9 +391,6 @@ flowchart TB
 
 <div align="center">
 
-### 🧬 Full Metrics Report
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
-
 ### 📊 Stats & Languages
 <img height="195" src="https://github-readme-stats.vercel.app/api?username=kolkarnisha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=7C3AED&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Kolkar%20Nisha%27s%20GitHub%20Stats" />
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolkarnisha&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&langs_count=8" />
@@ -410,9 +404,6 @@ flowchart TB
 
 ### ⏰ Productive Time
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kolkarnisha&theme=tokyonight&utcOffset=5.5" height="190"/>
-
-### 🐍 Snake Is Hungry
-<img src="https://raw.githubusercontent.com/kolkarnisha/kolkarnisha/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
