@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Kolkar%20Nisha&fontSize=72&fontColor=00F5FF&fontAlignY=38&animation=fadeIn&desc=Python%20Full%20Stack%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Django%20%E2%80%A2%20Generative%20AI&descSize=20&descColor=C4B5FD&descAlignY=62&stroke=7C3AED&strokeWidth=1" alt="Kolkar Nisha - Python Full Stack and AI Engineer"/>
 
 <a href="https://github.com/kolkarnisha">
